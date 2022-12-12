@@ -18,7 +18,7 @@ Code: 3869
 #### Hardware
 * Raspberry Pi (Pi 4)
 * 5v to 3v level shifter (SN74LVC245)
-* Wiegand device (Essex Electronics Wiegand Keypad/Prox Reader (T-Prox Series) TPX-26I)
+* Wiegand device (Essex Electronics Wiegand Keypad/Prox Reader (T-Prox Series) TPX-26I) https://www.keyless.com/t-prox/
 
 #### Software
 * The latest Raspberry Pi Software Raspian from https://www.raspberrypi.com/software/
